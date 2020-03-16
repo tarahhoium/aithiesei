@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pifeisheew.norik.io/sitemap.xml
